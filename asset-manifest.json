@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/alifeesltd-prod/static/css/main.779b742e.chunk.css",
+    "main.js": "/alifeesltd-prod/static/js/main.9ffbec71.chunk.js",
+    "main.js.map": "/alifeesltd-prod/static/js/main.9ffbec71.chunk.js.map",
+    "runtime-main.js": "/alifeesltd-prod/static/js/runtime-main.25d21110.js",
+    "runtime-main.js.map": "/alifeesltd-prod/static/js/runtime-main.25d21110.js.map",
+    "static/js/2.01fa02f7.chunk.js": "/alifeesltd-prod/static/js/2.01fa02f7.chunk.js",
+    "static/js/2.01fa02f7.chunk.js.map": "/alifeesltd-prod/static/js/2.01fa02f7.chunk.js.map",
+    "index.html": "/alifeesltd-prod/index.html",
+    "precache-manifest.81fc6f44488acc3b9e82e3ddd0ae2991.js": "/alifeesltd-prod/precache-manifest.81fc6f44488acc3b9e82e3ddd0ae2991.js",
+    "service-worker.js": "/alifeesltd-prod/service-worker.js",
+    "static/css/main.779b742e.chunk.css.map": "/alifeesltd-prod/static/css/main.779b742e.chunk.css.map",
+    "static/js/2.01fa02f7.chunk.js.LICENSE.txt": "/alifeesltd-prod/static/js/2.01fa02f7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25d21110.js",
+    "static/js/2.01fa02f7.chunk.js",
+    "static/css/main.779b742e.chunk.css",
+    "static/js/main.9ffbec71.chunk.js"
+  ]
+}
